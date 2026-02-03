@@ -13,6 +13,7 @@ To understand how port scanning works using Nmap.
 ## Commands Practiced
 - nmap localhost
 - nmap -p 80 localhost
+- nmap -sS localhost
 
 ## Learning Outcome
 - Learned what open ports are
